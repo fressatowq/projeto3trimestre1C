@@ -51,7 +51,7 @@ width: 327px;
 
 .produtotexto h2{
 
-    margin: 0 0 47px 38px;
+    margin: 0 0 47px 8px;
     font-size: 13px;
     font-family: 'Raleway', sans-serif;
     font-weight: 400;
@@ -63,10 +63,10 @@ width: 327px;
 
     height: 225px;
     padding-bottom: 100px;
-    margin: 0 0 47px 38px;
+    margin: 0 0 47px 0px;
     font-family: 'Playfair Display', serif;
     color: #000000;
-    line-height: 1.7em;
+    line-height: 1.4em;
     font-size: 15px;
     font-weight: lighter;
     overflow: hidden;
@@ -89,7 +89,7 @@ width: 327px;
     top:-44px;
     height: 50px;
     font-family: 'Trocchi', serif;
-    margin: 0 0 0 80px;
+    margin: 0 0 0 60px;
     font-size: 20px;
     font-weight: lighter;
     color: #000000;
